@@ -13,8 +13,10 @@ setuptools.setup(
         'odoo12-addon-account_cutoff_accrual_picking',
         'odoo12-addon-account_cutoff_base',
         'odoo12-addon-account_cutoff_prepaid',
+        'odoo12-addon-account_fiscal_year_closing',
         'odoo12-addon-account_invoice_start_end_dates',
         'odoo12-addon-account_multicurrency_revaluation',
+        'odoo12-addon-account_multicurrency_revaluation_rate_type',
     ],
     classifiers=[
         'Programming Language :: Python',
